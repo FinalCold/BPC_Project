@@ -25,8 +25,8 @@ for i in range(l+1):
             tmp_ori = list_str_.pop(2)
             tmp_scr = list_str_.pop(-1)
         
-            list_str_.insert(-1, tmp_scr)
-            list_str_.insert(6, tmp_ori)
+            list_str_.insert(6, tmp_scr)
+            list_str_.insert(15, tmp_ori)
             rst = np.array([list_str_])
             # print(rst)
 
@@ -49,7 +49,7 @@ for i in range(l+1):
 
 print('result shape : ', result.shape)
 
-np.savetxt(base_dir+'result.txt', result, '%s')
+np.savetxt(base_dir+'result.txt', result, '%s', delimiter=',')
 
 print("file saved '/home/mds/data/result.txt'")
 
