@@ -9,17 +9,17 @@ print('total files : ', l)
 
 count = 0
 
-for l in range(l+1):
+for i in range(l+1):
 
     try:
-        open_dir = os.path.join(base_dir, (str(l+1).zfill(6)+'.txt'))
+        open_dir = os.path.join(base_dir, (str(i).zfill(6)+'.txt'))
         f = open(open_dir)
 
         for line in f.readlines():
                    
             line_1 = line[9:]
             lst = line_1.split()  
-            lst_ = [str(l), str(2)]
+            lst_ = [str(i), str(2)]
             list_str_ = lst_ + lst
 
             tmp_ori = list_str_.pop(2)
