@@ -1,3 +1,5 @@
+# convert pointrcnn output txt to ab3dmot input txt 
+
 import os, numpy as np, sys
 
 base_dir = '/home/mds/data/'
