@@ -1,4 +1,4 @@
-import os, numpy as np, time, sys
+import os, numpy as np, sys
 
 base_dir = '/home/mds/data/'
 file_list = os.listdir(base_dir)
