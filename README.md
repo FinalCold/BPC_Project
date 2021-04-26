@@ -11,12 +11,11 @@
 
 2020.08.24 ~2020.10.29
 
-### Contributer 
-
-Jonguk Bae : https://github.com/Eddie-JUB
-- Personal Portfoilio : https://github.com/Eddie-JUB/Portfolio
+### Contributer
 
 Chanjong Park : https://github.com/FinalCold
+
+Jonguk Bae : https://github.com/Eddie-JUB
 
 Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
