@@ -34,7 +34,7 @@ https://github.com/maudzung/SFA3D
 https://github.com/xinshuoweng/AB3DMOT
 
 3. Prediction : AMM
-https://github.com/chrisHuxi/Trajecto
+https://github.com/chrisHuxi/Trajectory_Predictor
 
 4. Enviroment : 
 - Ubuntu 16.04 LTS
